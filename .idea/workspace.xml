@@ -5,13 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10dd33dd-05af-49d4-bde0-72e72734775e" name="Changes" comment="Ready3">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/entity/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/entity/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/main/ProjectMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/service/BallService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/AbstactEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/FantasyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/UnitComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/UnitComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/entity/GroupType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/reader/ArrParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/reader/ArrayFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/second/SecondMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/third/ArrService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/third/ThirdMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/lesson1910/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/prop/text.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/prop/text_be_BY.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/prop/text_ru_RU.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/FirstDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/entity/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/first/fistdemo/entity/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/entity/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/first/fistdemo/entity/Basket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/main/ProjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/first/fistdemo/main/ProjectMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/service/BallService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/first/fistdemo/service/BallService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +56,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/EDUCATION/JAVA/Practice/FirstSep14/data/2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.ProjectMain">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\EDUCATION\JAVA\Practice\FirstSep14\data\2" />
+      <recent name="D:\EDUCATION\JAVA\Practice\FirstSep14\data" />
+      <recent name="D:\EDUCATION\JAVA\Practice\FirstSep14\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EDUCATION\JAVA\Practice\FirstSep14\data\3" />
+      <recent name="D:\EDUCATION\JAVA\Practice\FirstSep14\src\main\resources\prop" />
+      <recent name="D:\EDUCATION\JAVA\Practice\FirstSep14\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThirdMain">
     <configuration name="FirstDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.epam.first.fistdemo.FirstDemo" />
       <module name="FirstSep14" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.epam.first.fistdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.practise.lesson1910.Main" />
+      <module name="FirstSep14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.practise.lesson1910.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +119,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.practise.algoritmtask.second.SecondMain" />
+      <module name="FirstSep14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.practise.algoritmtask.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.practise.algoritmtask.third.ThirdMain" />
+      <module name="FirstSep14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.practise.algoritmtask.third.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirdMain" />
+        <item itemvalue="Application.SecondMain" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ProjectMain" />
         <item itemvalue="Application.FirstDemo" />
       </list>
@@ -118,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663601868163</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ready3">
+      <created>1663704023693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663704023693</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

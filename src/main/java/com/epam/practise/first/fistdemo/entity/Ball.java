@@ -1,4 +1,4 @@
-package com.epam.first.fistdemo.entity;
+package com.epam.practise.first.fistdemo.entity;
 
 import java.util.Objects;
 

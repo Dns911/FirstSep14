@@ -1,8 +1,8 @@
-package com.epam.first.fistdemo.main;
+package com.epam.practise.first.fistdemo.main;
 
-import com.epam.first.fistdemo.entity.Ball;
-import com.epam.first.fistdemo.entity.Basket;
-import com.epam.first.fistdemo.service.BallService;
+import com.epam.practise.first.fistdemo.entity.Ball;
+import com.epam.practise.first.fistdemo.entity.Basket;
+import com.epam.practise.first.fistdemo.service.BallService;
 
 public class ProjectMain {
     public ProjectMain() {

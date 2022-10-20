@@ -1,4 +1,4 @@
-package com.epam.first.fistdemo.entity;
+package com.epam.practise.first.fistdemo.entity;
 
 public class Basket {
     private Ball[] balls = null;

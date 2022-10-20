@@ -1,7 +1,7 @@
-package com.epam.first.fistdemo.service;
+package com.epam.practise.first.fistdemo.service;
 
-import com.epam.first.fistdemo.entity.Ball;
-import com.epam.first.fistdemo.entity.Basket;
+import com.epam.practise.first.fistdemo.entity.Ball;
+import com.epam.practise.first.fistdemo.entity.Basket;
 
 public class BallService {
     public int sumWeightBall(Basket basket){
