@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10dd33dd-05af-49d4-bde0-72e72734775e" name="Changes" comment="Ready3">
-      <change afterPath="$PROJECT_DIR$/data/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/AbstactEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/Dwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/FantasyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/UnitComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/UnitComposite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/composite/entity/GroupType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/reader/ArrParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/reader/ArrayFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/second/SecondMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/third/ArrService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/third/ThirdMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/lesson1910/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/prop/text.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/prop/text_be_BY.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/prop/text_ru_RU.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/entity/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/first/fistdemo/entity/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/entity/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/first/fistdemo/entity/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/main/ProjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/first/fistdemo/main/ProjectMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/first/fistdemo/service/BallService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/first/fistdemo/service/BallService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/third/ArrService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/third/ArrService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/third/ThirdMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/practise/algoritmtask/third/ThirdMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +38,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/EDUCATION/JAVA/Practice/FirstSep14/data/2",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "D:/EDUCATION/JAVA/Practice/FirstSep14",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -199,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663704023693</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ready3">
+      <created>1666293502608</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666293502608</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

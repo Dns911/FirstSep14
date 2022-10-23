@@ -1,0 +1,10 @@
+
+]
+java:S1854	";Remove this useless assignment to local variable "locale1".(ûà¬‘þÿÿÿÿ8á¸Ý±¿0
+W
+java:S1854":Remove this useless assignment to local variable "locale".(ŽŠò…8¸îß±¿0
+H
+java:S1481"+Remove this unused "locale" local variable.(ŽŠò…8Äîß±¿0
+N
+java:S1481	",Remove this unused "locale1" local variable.(ûà¬‘þÿÿÿÿ8î¸Ý±¿0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ÜŽ˜þÿÿÿÿ8ÈÜØ±¿0

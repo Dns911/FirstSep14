@@ -1,0 +1,11 @@
+2022-10-20 21:53:02 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - 11
+2022-10-20 22:02:31 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - START
+2022-10-20 22:02:31 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - [1, 2, 3, 3, 2, 1]
+2022-10-20 22:05:45 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - START
+2022-10-20 22:05:45 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - [1, 2, 3, 3, 2, 1]
+2022-10-20 22:05:45 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - 12
+2022-10-20 22:06:00 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - START
+2022-10-20 22:06:00 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - [2, 3, 2, 3]
+2022-10-20 22:06:00 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - 4
+2022-10-20 22:06:16 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - START
+2022-10-20 22:06:16 [main] INFO  epam.practise.algoritmtask.second.SecondMain [[main]] - [1, 2, 3, 4, 5]

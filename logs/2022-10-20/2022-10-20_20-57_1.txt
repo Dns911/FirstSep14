@@ -1,0 +1,11 @@
+2022-10-20 20:17:20 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - START
+2022-10-20 20:17:20 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - [I@4b45a2f5
+2022-10-20 20:17:44 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - START
+2022-10-20 20:17:44 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - [I@45099dd3
+2022-10-20 20:18:41 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - START
+2022-10-20 20:18:41 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - [1, 2, 3, 4, 5]
+2022-10-20 20:47:02 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - START
+2022-10-20 20:47:02 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - [1, 2, 3, 4, 5]
+2022-10-20 20:50:56 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - START
+2022-10-20 20:50:56 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - [1, 2, 3, 4, 5]
+2022-10-20 20:57:07 [main] INFO  com.epam.practise.algoritmtask.third.ThirdMain [[main]] - START
