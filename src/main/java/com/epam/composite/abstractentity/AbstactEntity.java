@@ -1,4 +1,4 @@
-package com.epam.composite;
+package com.epam.composite.abstractentity;
 
 import java.util.StringJoiner;
 

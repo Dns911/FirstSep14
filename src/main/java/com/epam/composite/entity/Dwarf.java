@@ -1,12 +1,14 @@
-package com.epam.composite;
+package com.epam.composite.entity;
+
+import com.epam.composite.UnitComponent;
 
 import java.util.StringJoiner;
 
-public class Elf implements UnitComponent{
-private long id;
-private int power;
+public class Dwarf implements UnitComponent {
+    private long id;
+    private int power;
 
-    public Elf(long id, int power) {
+    public Dwarf(long id, int power) {
         this.id = id;
         this.power = power;
     }
@@ -27,7 +29,6 @@ private int power;
         this.power = power;
     }
 
-
     @Override
     public int count() {
         return 1;
@@ -40,7 +41,7 @@ private int power;
 
     @Override
     public String toString() {
-        return new StringJoiner(", ", "Elf[", "]")
+        return new StringJoiner(", ", "Dwarf[", "]")
                 .add("id=" + id)
                 .add("power=" + power)
                 .toString();

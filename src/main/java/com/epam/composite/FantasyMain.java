@@ -1,5 +1,7 @@
 package com.epam.composite;
 
+import com.epam.composite.entity.Dwarf;
+import com.epam.composite.entity.Elf;
 import com.epam.composite.entity.GroupType;
 
 

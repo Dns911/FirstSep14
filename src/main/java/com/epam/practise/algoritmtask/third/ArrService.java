@@ -1,13 +1,11 @@
 package com.epam.practise.algoritmtask.third;
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
 
 public class ArrService {
     public ArrService(){}
 
-    public int[] HandlerArr(int[] source) {
+    public int[] handlerArr(int[] source) {
         int resLength = source.length * (source.length - 1) / 2;
         int[] resultArr = new int[resLength];
         int count = 0;

@@ -22,7 +22,7 @@ public class ThirdMain {
         int k = a[1];
         logger.log(Level.INFO, "Source Array: " + Arrays.toString(sourceArr));
         ArrService arrService = new ArrService();
-        int[] result = arrService.HandlerArr(sourceArr);
+        int[] result = arrService.handlerArr(sourceArr);
         logger.log(Level.INFO, "Result array: " + Arrays.toString(result));
         int res = result[result.length - k];
         logger.log(Level.INFO, k + " - nice element: " + res);
